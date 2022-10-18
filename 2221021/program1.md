@@ -1,5 +1,6 @@
 #### Program1: Write a code to display "Hello World".
 
+```
 #include<stdio.h>
   
   int main()
@@ -11,5 +12,5 @@
   return 0;
   
   }
-  
+  ```
   **Output**: Hello World
