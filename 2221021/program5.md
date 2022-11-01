@@ -1,5 +1,5 @@
 ## Program 5 : Write a program to write username roll no
-```c
+```C
 #include<stdio.h>
 int main()
 {
@@ -12,4 +12,4 @@ scanf("%d",&r);
 return 0;
 }
 ```
-**Output : username roll no
+**Output : username roll no**
