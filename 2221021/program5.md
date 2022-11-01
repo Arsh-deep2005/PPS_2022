@@ -1,4 +1,4 @@
-Progran 5 : Write a program to write username roll no
+## Program 5 : Write a program to write username roll no
 ```c
 #include<stdio.h>
 int main()
@@ -11,5 +11,5 @@ printf("roll no");
 scanf("%d",&r);
 return 0;
 }
-
-output : username roll no
+```
+**Output : username roll no
