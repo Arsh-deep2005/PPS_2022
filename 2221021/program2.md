@@ -1,5 +1,5 @@
-## Program 2:To write a code for addtion
-```
+## Program 2: write a code for the addition of two numbers
+```c
 #include<stdio.h>
 int main()
 {
