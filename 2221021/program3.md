@@ -1,5 +1,5 @@
-## program 3 : write a program for three numbers using conditional branching
-```
+## program 3 : Write a program for 3 numbers using conditional branching
+```C
 # include<stdio.h>
 int main
 {
