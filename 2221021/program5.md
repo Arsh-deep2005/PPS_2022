@@ -1,5 +1,5 @@
 Progran 5 : Write a program to write username roll no
-```
+```c
 #include<stdio.h>
 int main()
 {
