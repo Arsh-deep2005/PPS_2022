@@ -17,3 +17,4 @@ printf("c is greater");
 }
 return0;
 }
+output : c is greater
