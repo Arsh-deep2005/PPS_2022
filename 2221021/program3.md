@@ -1,4 +1,4 @@
-## program 4 : write a program for three numbers using conditional branching
+## program 3 : write a program for three numbers using conditional branching
 ```
 # include<stdio.h>
 int main
