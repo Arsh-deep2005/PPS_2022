@@ -1,5 +1,5 @@
 ## Program 3 : Write a program for 3 numbers using conditional branching
-```C
+```
 #include <stdio.h>
 int main()
 {
@@ -18,5 +18,5 @@ printf("c is greater");
 }
 return 0;
 }
-
-** Output: c is greater
+```
+**Output: c is greater
