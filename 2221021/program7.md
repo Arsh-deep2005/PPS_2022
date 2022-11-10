@@ -1,24 +1,21 @@
-## Program : Write a program for printing 4 to 9
+## Program : Write a program for printing numbers.
 ```
-#include <stdio.h>
-
+#include<stdio.h>
 int main() 
-
 {
-    
-    int i=4;
-    
-    while(i<10)
-    
-    {
-    
-    printf("\%d",i);
-    
-    i++;
-
+int i=4;
+while(i<10)
+{
+printf("\n%d",i);
+i++;
 }
-        return 0;
-
+return 0;
 }
 ```
-**Output : 456789**
+**Output:
+4
+5
+6
+7
+8
+9**
