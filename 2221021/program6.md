@@ -1,21 +1,13 @@
 ## Program 6 : Write a program for printing counting 1 to 10 
 ```
-#include <stdio.h>
-
+#include<stdio.h>
 int main() 
-
 {
-    
 int i;
-
 for(i=0;i<=10;i++)
-
 printf("\n%d",i);
-
   return 0;
-  
-}
-
+  }
 ```
 **Output : 0
 1
