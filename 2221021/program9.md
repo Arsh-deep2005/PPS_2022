@@ -1,4 +1,4 @@
-## Program 9 : write a program using continue .
+## Program 9 : write a program using continue command .
 ```
 #include <stdio.h>
 int main()
