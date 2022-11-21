@@ -1,4 +1,4 @@
-## Program: Write a program using goto .
+## Program 8: Write a program using goto .
 ```
 #include <stdio.h>
 int main() 
