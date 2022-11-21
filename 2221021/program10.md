@@ -1,5 +1,5 @@
 ## Program 10: Write a program for numbers.
-
+```
 #include <stdio.h>
 
 int main() 
@@ -23,7 +23,7 @@ while(a<24);
  return 0;
  
 }
-
+```
 **Output : 15
 16
 17
