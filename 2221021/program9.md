@@ -1,5 +1,5 @@
 ## Program 9 : write a program using continue statement.
-```
+```c
 #include <stdio.h>
 int main()
 {
