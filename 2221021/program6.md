@@ -1,5 +1,5 @@
 ## Program 6 : Write a program for printing counting 1 to 10 
-```
+```c
 #include<stdio.h>
 int main() 
 {
@@ -9,7 +9,8 @@ printf("\n%d",i);
   return 0;
   }
 ```
-**Output : 0
+**Output :
+0
 1
 2
 3
