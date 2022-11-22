@@ -1,5 +1,5 @@
 ## Program 8: Write a program using goto .
-```
+```c
 #include <stdio.h>
 int main() 
 {
