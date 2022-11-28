@@ -1,4 +1,4 @@
-## Program : Write a program to store data in an array.
+## Program15: Write a program to store data in an array.
 ```c
 #include <stdio.h>
 int main()
