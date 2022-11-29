@@ -12,10 +12,12 @@ while(i<10)
  return 0;
 }
 ```
-**Output: 4
+**Output:**
+```
+4
 5
 6
 7
 8
-9**
+9
 
