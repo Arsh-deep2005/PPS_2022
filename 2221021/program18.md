@@ -10,7 +10,7 @@ int main()
     return 0;
 }
 ```
-**Output :**
+**Output:**
 ```
 Enter a character:A
 ASCII value of A = 65
