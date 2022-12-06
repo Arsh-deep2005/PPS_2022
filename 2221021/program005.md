@@ -12,4 +12,4 @@ scanf("%d",&r);
 return 0;
 }
 ```
-**Output : username roll no**
+**Output: username roll no**
