@@ -9,4 +9,4 @@ printf("%d",c);
 return 0;
 }
 ```
-**Output : 1000**
+**Output: 1000**
