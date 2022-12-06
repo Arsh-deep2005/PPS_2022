@@ -9,7 +9,8 @@ printf("\n%d",i);
   return 0;
   }
 ```
-**Output :
+**Output :**
+```
 0
 1
 2
@@ -20,4 +21,4 @@ printf("\n%d",i);
 7
 8
 9
-10**
+10
