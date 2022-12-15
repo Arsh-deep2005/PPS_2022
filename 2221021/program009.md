@@ -17,7 +17,9 @@ int main()
 return 0;
  }
 ```
-**Output :0
+**Output :**
+```
+0
 1
 2
 3
@@ -27,5 +29,5 @@ return 0;
 8
 9
 10
-11**
+11
 
