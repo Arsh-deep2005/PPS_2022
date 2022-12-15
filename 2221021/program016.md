@@ -14,7 +14,7 @@ int main()
     return 0;
 }
 ```
-**Output:**
+**Output :**
 ```
 Please enter your age:45
 Enter your child age:19
