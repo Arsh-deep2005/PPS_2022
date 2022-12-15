@@ -10,4 +10,4 @@ int main()
  return 0;
 }
 ```
-**Output : Niko scored = 94.678001Cassie scored = 91.320000
+**Output: Niko scored = 94.678001Cassie scored = 91.320000
