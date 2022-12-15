@@ -12,7 +12,7 @@ while(i<10)
  return 0;
 }
 ```
-**Output:**
+**Output :**
 ```
 4
 5
