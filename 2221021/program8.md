@@ -14,4 +14,4 @@ printf("information technology");
 return 0;
 }
 ```
-**Output : department of information technology**
+**Output: department of information technology**
