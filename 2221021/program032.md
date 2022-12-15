@@ -24,7 +24,7 @@ else
 return 0;
 }
 ```
-**Output :**
+**Output:**
 ```
 Enter the number:98
 The number is not Palindromic
