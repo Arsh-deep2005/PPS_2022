@@ -15,7 +15,7 @@ puts("the world");
 return 0;
 }
 ```
-**Output : 
+**Output: 
 Welcome you
 the world
 of computer tech.**
