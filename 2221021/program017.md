@@ -1,4 +1,4 @@
-## Program : Write a program using diffferent kind of Bitwise Operator.
+## Program 17 : Write a program using diffferent kind of Bitwise Operator.
 ```C
 #include <stdio.h>
 int main() 
