@@ -11,4 +11,4 @@ int main()
 }
 ```
 
-**Output: The character you entered is k**
+**Output : The character you entered is k**
