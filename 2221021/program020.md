@@ -1,4 +1,4 @@
-## Program 20:
+## Program 20: Write a program for greater than or even.
 ```c
 #include <stdio.h>
 
