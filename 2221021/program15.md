@@ -8,4 +8,4 @@ int main()
  return 0;
 }
 ```
-**Output: 23**
+**Output : 23**
