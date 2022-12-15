@@ -10,7 +10,7 @@ int main()
  return 0;
 }
 ```
-**Output:**
+**Output :**
 ```
 Enter a ASCII value:66
 ASCII to char = B
