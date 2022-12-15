@@ -27,7 +27,7 @@ int main()
 	return 0;
 }
 ```
-**Output :**
+**Output:**
 ```
 Enter the value of a =79
 It is prime number
