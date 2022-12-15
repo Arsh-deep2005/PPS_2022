@@ -7,4 +7,4 @@ int main()
  return 0;
 }
 ```
-**Output : I need some coffee**
+**Output: I need some coffee**
