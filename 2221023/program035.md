@@ -29,7 +29,10 @@ printf("Word is not Palindromic");
 return 0;
 ```
 **Output** :
-```
-Enter the word:mom
+Enter the word:oppo
 Word is Palindromic
+```
+
+
+
 ```
