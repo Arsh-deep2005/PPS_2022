@@ -30,3 +30,6 @@ int main()
 }
 ```
  **Output :**
+ ```
+ Enter the word:oppo
+Word is Palindromic
