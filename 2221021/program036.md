@@ -1,4 +1,4 @@
-## Program 36: 
+## Program 36: Selection sort.
 ```c
 #include <stdio.h>
 int main()
