@@ -1,1 +1,23 @@
-## Program 39: 
+## Program 39: Write a program using goto statement.
+```c
+#include<stdio.h>
+int main()
+{
+	int a=7;
+	begin:
+		printf("\n%d",a);
+		a++;
+		if(a<14)goto begin;
+		return 0;
+		
+}
+```
+**Output: **
+```
+7
+8
+9
+10
+11
+12
+13
