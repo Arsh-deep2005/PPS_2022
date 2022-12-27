@@ -35,6 +35,6 @@ int main()
   return 0;
 }
 ```
-**Output :**
+**Output:**
 ```
 5 6 11 12 13
